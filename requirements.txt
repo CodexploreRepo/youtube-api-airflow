@@ -1,4 +1,4 @@
-python-dotenv
-pandas 
 google-api-python-client
+pandas 
+python-dotenv
 s3fs
