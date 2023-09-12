@@ -1,0 +1,4 @@
+python-dotenv
+pandas 
+google-api-python-client
+s3fs

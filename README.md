@@ -1,2 +1,1 @@
-# Twitter Airflow
-twitter data pipeline with airflow
+- Google Cloud -> search for "YouTube Data API v3" -> Credentials -> Create Credentials -> API Key
