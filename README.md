@@ -1,6 +1,6 @@
 # Youtube API
 
-- Google Cloud -> search for "YouTube Data API v3" -> Credentials -> "Create Credentials" -> get API Key
+- Google Cloud &#8594; search for "YouTube Data API v3" &#8594; Credentials &#8594; "Create Credentials" &#8594; get API Key
 - [Youtube API Documentation](https://developers.google.com/youtube/v3/docs/channels/list)
 - `https://www.youtube.com/watch?v=<video-id>`
 ## TODO
